@@ -65,3 +65,14 @@ Monitor revenue and profitability trends regularly.
 Project Files
 
 Power BI report files and dashboard screenshots will be added to this repository.
+
+## Dashboard Screenshots
+
+### 1. Sales Dashboard
+![Sales Dashboard](Sales_Dashboard.png)
+
+### 2. Product Performance Insights
+![Product Performance Insights](Product_Performance_Insights.png)
+
+### 3. Project Overview & Insights
+![Project Overview & Insights](Project_Overview_Insights.png)
