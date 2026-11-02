@@ -75,4 +75,4 @@ Power BI report files and dashboard screenshots will be added to this repository
 ![Product Performance Insights](Product_Performance_Insights.png)
 
 ### 3. Project Overview & Insights
-![Project Overview & Insights](Project_Overview_Insights.png)
+![Project Overview & Insights](Project%20Overview%20%26%20Insights.png)
