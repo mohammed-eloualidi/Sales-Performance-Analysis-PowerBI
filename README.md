@@ -103,4 +103,8 @@ Power BI report files and dashboard screenshots will be added to this repository
 ### 3. Project Overview & Insights
 ![Project Overview & Insights](Project%20Overview%20%26%20Insights.png)
 
+### 4. What-if Analysis
+
+![What-if Analysis Dashboard](What_If_Analysis.png)
+
 What-if Analysis — Interactive sales and profit simulation using discount rates and sales volume adjustments to evaluate profitability and support business decisions.
